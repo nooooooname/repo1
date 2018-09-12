@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "myheader.h"
+#include "header.h"
 int main(int argc, char *argv[])
 {
 	char str[] = "Hello git!";
